@@ -24,8 +24,9 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 大家好，我是方方
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
+* Fork by https://github.com/jirengu-inc/animating-resume
+* hello，我是小龙
+* 招聘季，很多人在经历各种面试，这时候有一个很炫酷的简历就很重要了
 * 说做就做，我也来写一份简历！
 */
 
@@ -35,7 +36,8 @@
 }
 /* 白色背景太单调了，我们来点背景 */
 html {
-  color: rgb(222,222,222); background: rgb(0,43,54);
+  color: rgb(222,222,222); 
+  background: rgb(0,43,54);
 }
 /* 文字离边框太近了 */
 .styleEditor {
@@ -115,34 +117,33 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `方应杭
+        fullMarkdown: `杨小龙
 ----
 
-资深前端工程师，资深前端讲师，现在在 [饥人谷](http://jirengu.com) 教前端课程。
+前端工程师，现在在 [四达时代](https://www.startimestv.com) 从事前端开发工作。
 
 技能
 ----
 
-* 前端开发
-* Rails 开发
-* Node.js 开发
-* 前端授课
+* 基本技能：Html、Javascript、Css
+* MVVM框架：React、Vue
+* 后台开发：Node.js、Java
+* 可视化开发：Echats、d3.js、threejs
+*
 
 工作经历
 ----
 
-1. [饥人谷](http://jirengu.com)
-2. 腾讯即时通讯平台部
-3. 阿里巴巴B2B部门
-4. 彩程知人项目组
+1. [四达时代 | Startimes](https://www.startimestv.com)
+2. 订房宝
+3. 北京税翼
+4. [拓尔思 | TRS](http://www.trs.com.cn/)
 
 链接
 ----
 
-* [GitHub](https://github.com/frankfang)
-* [我的文章](https://www.zhihu.com/people/zhihusucks/pins/posts)
-
-> 如果你喜欢这个效果，Fork [我的项目](https://github.com/jirengu-inc/animating-resume)，打造你自己的简历！
+* [GitHub](https://github.com/yxl2628)
+* [我的文章](https://www.yangxl.cn/archives/)
 
 `
       }
