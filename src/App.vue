@@ -120,7 +120,7 @@ html{
         fullMarkdown: `杨小龙
 ----
 
-前端工程师，现在在 [四达时代](https://www.startimestv.com) 从事前端开发工作。
+前端工程师，现在在 [阳光保险集团](https://www.sinosig.com) 从事财务系统的前端开发工作。
 
 技能
 ----
@@ -134,10 +134,11 @@ html{
 工作经历
 ----
 
-1. [四达时代 | Startimes](https://www.startimestv.com)
-2. 订房宝
-3. 北京税翼
-4. [拓尔思 | TRS](http://www.trs.com.cn/)
+1. [阳光保险集团 | Sunshine Insurance Group](https://www.sinosig.com)
+2. [四达时代 | Startimes](https://www.startimestv.com)
+3. 订房宝
+4. 北京税翼
+5. [拓尔思 | TRS](http://www.trs.com.cn/)
 
 链接
 ----
